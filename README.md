@@ -14,5 +14,5 @@ SQL: MySQL
 NoSQL: MongoDB
 Programming: C, C#, Java, Python, PHP, JavaScript, Typescript
 Server setup using: Linux, Nginx, Mysql, PHP
-Cloud Services: AWS, GCP, Azure, DevOps deployment, CI/CD, Docker, Git & GitHub, Cloud Servers / Hosting
+Cloud Services: AWS,Azure, DevOps, CI/CD, Docker, Git & GitHub, Cloud Servers / Hosting
 Additionals: Agile, Scrum, Project Planning, GitHub, Jira, Trello, Office Apps
