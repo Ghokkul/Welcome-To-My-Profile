@@ -1,6 +1,5 @@
 # Welcome-To-My-Profile
 Hi There
-Hi There 
 Welcome To My Github!
 I am Ghokkul Muhunthan 😃, originally from Toronto, Canada, and currently living in Auckland, New Zealand. I am studing my post graduate at University of Auckland 🏫.
 
