@@ -15,6 +15,7 @@ Talk to me about:
 - Server setup using: **Linux, Nginx, Mysql, PHP**
 - Cloud Services: **AWS, DevOps, CI/CD, Docker, Git & GitHub, Cloud Servers / Hosting**
 - Additionals: **Agile, Scrum, Project Planning, GitHub, Jira, Trello, Office Apps**
+- Hardware:  **Desktop Support, Networking, Cloud Management, Database, Troubleshooting, Windoows**
 
 ## 📫 How to reach me
 <a href="https://ghokkulm2001.wixsite.com/ghokkulmuhunthan/#contact" target="_blank">ghokkul</a> | helloghokkul@gmail.com
